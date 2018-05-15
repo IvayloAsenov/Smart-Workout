@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">WorkoutBuilderAI</string>
+    <string name="title_activity_choose_goals">ChooseGoalsActivity</string>
+    <string name="title_activity_enter_information">EnterInformationActivity</string>
+    <string name="title_activity_workout_log">WorkoutLogActivity</string>
+    <string name="title_activity_daily_log">DailyLogActivity</string>
+    <string name="title_activity_saved_workouts">SavedWorkoutsActivity</string>
 </resources>

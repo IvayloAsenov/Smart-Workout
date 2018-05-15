@@ -16,6 +16,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ChooseGoalsActivity"
+            android:label="@string/title_activity_choose_goals"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EnterInformationActivity"
+            android:label="@string/title_activity_enter_information" />
+        <activity
+            android:name=".WorkoutLogActivity"
+            android:label="@string/title_activity_workout_log" />
+        <activity
+            android:name=".DailyLogActivity"
+            android:label="@string/title_activity_daily_log" />
+        <activity
+            android:name=".SavedWorkoutsActivity"
+            android:label="@string/title_activity_saved_workouts"></activity>
     </application>
 
 </manifest>
